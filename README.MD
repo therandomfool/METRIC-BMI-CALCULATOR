@@ -1,0 +1,3 @@
+# METRIC BMI CALCULATOR
+
+![METRIC BMI CALCULATOR](assets/bmi.gif)
